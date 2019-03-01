@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Proxima+Nova+Soft');
+body {
+  font-family: "Proxima Nova Soft";
+}
+
+.ui.borderless.transparent.topmenu.menu {
+  box-shadow: none;
+  background-color: black;
+  padding: 10px;
+  color: white;
+  font-weight: 800;
+}
+
+.black-background {
+  background-color: black;
+  margin-top: 75px;
+  color: whitesmoke;
+  height: 400px;
+
+}
+
+.grad-background {
+  background: url('https://i.ytimg.com/vi/_TVMVbTC0U0/maxresdefault.jpg') no-repeat center center fixed;
+  background-size: cover;
+  height: 700px;
+}
+
+.item {
+  height: 10px;
+  margin-top: 30px;
+  color:white;
+}
+
